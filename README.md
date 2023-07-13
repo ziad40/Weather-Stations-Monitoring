@@ -1,4 +1,4 @@
-﻿# Weather-Stations-Monitoring
+﻿# Weather-Stations-Monitoring 
 
 DDIA course project about a distributed system that fetches weather information from multiple sources, archives and visualizes it.
 
@@ -133,3 +133,4 @@ This project is designed to be deployed on Kubernetes, so you should follow the 
 2) Use the following command to load the docker images into k8s: </br>
   `minikube image load <image name>`
 3) Apply all k8s YAML files in [k8s directory](./k8s/).
+   
